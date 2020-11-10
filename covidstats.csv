@@ -1,0 +1,201 @@
+Id provincia INDEC;Id departamento INDEC;ID departamento CovidStats;Provincia;Departamento
+2;1;87;CABA;COMUNA 01
+2;2;95;CABA;COMUNA 02
+2;3;49;CABA;COMUNA 03
+2;4;73;CABA;COMUNA 04
+2;5;135;CABA;COMUNA 05
+2;6;639;CABA;COMUNA 06
+2;7;157;CABA;COMUNA 07
+2;8;455;CABA;COMUNA 08
+2;9;97;CABA;COMUNA 09
+2;10;177;CABA;COMUNA 10
+2;11;37;CABA;COMUNA 11
+2;12;29;CABA;COMUNA 12
+2;13;137;CABA;COMUNA 13
+2;14;99;CABA;COMUNA 14
+2;15;105;CABA;COMUNA 15
+6;7;54244;Buenos Aires;Adolfo Alsina
+6;14;37456;Buenos Aires;Adolfo Gonzales Chaves
+6;21;7487;Buenos Aires;Alberti
+6;28;85;Buenos Aires;Almirante Brown
+6;35;75;Buenos Aires;Avellaneda
+6;42;5037;Buenos Aires;Ayacucho
+6;49;5263;Buenos Aires;Azul
+6;56;345;Buenos Aires;Bahía Blanca
+6;63;1211;Buenos Aires;Balcarce
+6;70;6921;Buenos Aires;Baradero
+6;77;9273;Buenos Aires;Arrecifes
+6;84;17239;Buenos Aires;Benito Juárez
+6;91;103;Buenos Aires;Berazategui
+6;98;5885;Buenos Aires;Berisso
+6;105;6803;Buenos Aires;Bolívar
+6;112;5097;Buenos Aires;Bragado
+6;119;927;Buenos Aires;Brandsen
+6;126;321;Buenos Aires;Campana
+6;134;199;Buenos Aires;Cañuelas
+6;140;7457;Buenos Aires;Capitán Sarmiento
+6;147;13703;Buenos Aires;Carlos Casares
+6;154;47664;Buenos Aires;Carlos Tejedor
+6;161;5029;Buenos Aires;Carmen de Areco
+6;168;625;Buenos Aires;Castelli
+6;175;6689;Buenos Aires;Colón
+6;182;12945;Buenos Aires;Coronel de Marina L. Rosales
+6;189;8691;Buenos Aires;Coronel Dorrego
+6;196;5755;Buenos Aires;Coronel Pringles
+6;203;41486;Buenos Aires;Coronel Suárez
+6;210;215;Buenos Aires;Chacabuco
+6;217;13443;Buenos Aires;Chascomús
+6;224;363;Buenos Aires;Chivilcoy
+6;231;42688;Buenos Aires;Daireaux
+6;238;5327;Buenos Aires;Dolores
+6;245;7947;Buenos Aires;Ensenada
+6;252;55;Buenos Aires;Escobar
+6;260;217;Buenos Aires;Esteban Echeverría
+6;266;9825;Buenos Aires;Exaltación de la Cruz
+6;270;331;Buenos Aires;Ezeiza
+6;274;15;Buenos Aires;Florencio Varela
+6;277;16107;Buenos Aires;Florentino Ameghino
+6;280;5497;Buenos Aires;General Alvarado
+6;287;99222;Buenos Aires;General Alvear
+6;294;49150;Buenos Aires;General Arenales
+6;301;11755;Buenos Aires;General Belgrano
+6;308;53026;Buenos Aires;General Guido
+6;315;11087;Buenos Aires;General Juan Madariaga
+6;322;14947;Buenos Aires;General La Madrid
+6;329;9465;Buenos Aires;General Las Heras
+6;336;98498;Buenos Aires;General Lavalle
+6;343;1029;Buenos Aires;General Paz
+6;351;42412;Buenos Aires;General Pinto
+6;357;67;Buenos Aires;General Pueyrredón
+6;364;681;Buenos Aires;General Rodríguez
+6;371;191;Buenos Aires;General San Martín
+6;385;17737;Buenos Aires;General Viamonte
+6;392;5079;Buenos Aires;General Villegas
+6;399;5041;Buenos Aires;Guaminí
+6;406;10655;Buenos Aires;Hipólito Yrigoyen
+6;408;5523;Buenos Aires;Hurlingham
+6;410;69;Buenos Aires;Ituzaingó
+6;412;501;Buenos Aires;José C. Paz
+6;413;1311;Buenos Aires;Junín
+6;420;5719;Buenos Aires;La Costa
+6;427;169;Buenos Aires;La Matanza
+6;434;237;Buenos Aires;Lanús
+6;441;31;Buenos Aires;La Plata
+6;448;70008;Buenos Aires;Laprida
+6;455;67090;Buenos Aires;Las Flores
+6;462;7013;Buenos Aires;Leandro N. Alem
+6;466;17952548;Buenos Aires;Lezama
+6;469;16135;Buenos Aires;Lincoln
+6;476;9173;Buenos Aires;Lobería
+6;483;4961;Buenos Aires;Lobos
+6;490;89;Buenos Aires;Lomas de Zamora
+6;497;435;Buenos Aires;Luján
+6;505;13141;Buenos Aires;Magdalena
+6;511;6217;Buenos Aires;Maipú
+6;515;127;Buenos Aires;Malvinas Argentinas
+6;518;5715;Buenos Aires;Mar Chiquita
+6;525;8131;Buenos Aires;Marcos Paz
+6;532;533;Buenos Aires;Mercedes
+6;539;207;Buenos Aires;Merlo
+6;547;465;Buenos Aires;Monte
+6;553;11689;Buenos Aires;Monte Hermoso
+6;560;933;Buenos Aires;Moreno
+6;568;547;Buenos Aires;Morón
+6;574;39558;Buenos Aires;Navarro
+6;581;5471;Buenos Aires;Necochea
+6;588;5077;Buenos Aires;9 de Julio
+6;595;119;Buenos Aires;Olavarría
+6;602;38760;Buenos Aires;Patagones
+6;609;10795;Buenos Aires;Pehuajó
+6;616;75164;Buenos Aires;Pellegrini
+6;623;27;Buenos Aires;Pergamino
+6;630;6073;Buenos Aires;Pila
+6;638;249;Buenos Aires;Pilar
+6;644;14853;Buenos Aires;Pinamar 
+6;648;1125;Buenos Aires;Presidente Perón
+6;651;7081;Buenos Aires;Puán
+6;655;327;Buenos Aires;Punta Indio
+6;658;39;Buenos Aires;Quilmes
+6;665;9769;Buenos Aires;Ramallo
+6;672;173;Buenos Aires;Rauch
+6;679;10227;Buenos Aires;Rivadavia
+6;686;5549;Buenos Aires;Rojas
+6;693;7121;Buenos Aires;Roque Pérez
+6;700;17491;Buenos Aires;Saavedra
+6;707;40074;Buenos Aires;Saladillo
+6;714;495;Buenos Aires;Salto
+6;721;64430;Buenos Aires;Salliqueló
+6;728;969;Buenos Aires;San Andrés de Giles
+6;735;4917;Buenos Aires;San Antonio de Areco
+6;742;6085;Buenos Aires;San Cayetano
+6;749;71;Buenos Aires;San Fernando
+6;756;47;Buenos Aires;San Isidro
+6;760;399;Buenos Aires;San Miguel
+6;763;1517;Buenos Aires;San Nicolás
+6;770;4897;Buenos Aires;San Pedro
+6;778;5571;Buenos Aires;San Vicente
+6;784;17945;Buenos Aires;Suipacha
+6;791;283;Buenos Aires;Tandil
+6;798;62430;Buenos Aires;Tapalqué
+6;805;91;Buenos Aires;Tigre
+6;812;16605036;Buenos Aires;Tordillo
+6;819;37352;Buenos Aires;Tornquist
+6;826;11623;Buenos Aires;Trenque Lauquen
+6;833;16459;Buenos Aires;Tres Arroyos
+6;840;111;Buenos Aires;Tres de Febrero
+6;847;52088;Buenos Aires;Tres Lomas
+6;854;13613;Buenos Aires;25 de Mayo
+6;861;77;Buenos Aires;Vicente López
+6;868;653;Buenos Aires;Villa Gesell
+6;875;37606;Buenos Aires;Villarino
+6;882;163;Buenos Aires;Zárate 
+10;7;242670;Catamarca;Ambato
+10;14;9129314;Catamarca;Ancasti
+10;21;8311;Catamarca;Andalgalá
+10;28;246080;Catamarca;Antofagasta de la Sierra
+10;35;41758;Catamarca;Belén
+10;42;48828;Catamarca;Capayán
+10;49;473;Catamarca;Capital
+10;56;109774;Catamarca;El Alto
+10;63;41782;Catamarca;Fray Mamerto Esquiú
+10;70;11655;Catamarca;La Paz
+10;77;55194;Catamarca;Paclín
+10;84;105712;Catamarca;Pomán
+10;91;14413;Catamarca;Santa María
+10;98;41866;Catamarca;Santa Rosa
+10;105;11649;Catamarca;Tinogasta
+10;112;11691;Catamarca;Valle Viejo
+14;7;821;Córdoba;Calamuchita
+14;14;209;Córdoba;Capital
+14;21;233;Córdoba;Colón
+14;28;509;Córdoba;Cruz del Eje
+14;35;9427;Córdoba;General Roca
+14;42;1285;Córdoba;General San Martín
+14;49;875;Córdoba;Ischilín
+14;56;5985;Córdoba;Juárez Celman
+14;63;5141;Córdoba;Marcos Juárez
+14;70;48364;Córdoba;Minas
+14;77;83500;Córdoba;Pocho
+14;84;519;Córdoba;Presidente Roque Sáenz Peña
+14;91;525;Córdoba;Punilla
+14;98;35;Córdoba;Río Cuarto
+14;105;9459;Córdoba;Río Primero
+14;112;12925;Córdoba;Río Seco
+14;119;365;Córdoba;Río Segundo
+14;126;6625;Córdoba;San Alberto
+14;133;5317;Córdoba;San Javier
+14;140;101;Córdoba;San Justo
+14;147;569;Córdoba;Santa María
+14;154;214772;Córdoba;Sobremonte
+14;161;61;Córdoba;Tercero Arriba
+14;168;1297;Córdoba;Totoral
+14;175;13175;Córdoba;Tulumba
+14;182;225;Córdoba;Unión
+18;7;9041;Corrientes;Bella Vista
+18;14;81546;Corrientes;Berón de Astrada
+18;21;79;Corrientes;Capital
+18;28;54816;Corrientes;Concepción
+18;35;38090;Corrientes;Curuzú Cuatiá
+18;42;5827;Corrientes;Empedrado
+18;49;15829;Corrientes;Esquina
+18;56;38362;Corrientes;General Alvear

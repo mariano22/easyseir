@@ -1,3 +1,4 @@
+%residencia_departamento_id y residencia_provincia_id
 indices='idxr=(datos(:,7)==82)&(datos(:,8)==84);';
 t0=130; %start time of dynamics
 crop=0;
@@ -14,3 +15,4 @@ delays=[3,11,12,18,18];
 useRel=true;
 parametrize;
 ciudad='rosario';
+csvwrite('dailyCases.csv',dailyCases)

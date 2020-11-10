@@ -19,7 +19,7 @@ pformat=".jpg";
 %scenetitle=strcat(" Cambio de R0:",mat2str(dr),"%  (",datestr(date0+datechange),")");
 
 
- 
+
 tdata=[1:length(totDeaths)]-1;
 date0=datenum([2020,02,20]); %day 0
 
@@ -63,6 +63,8 @@ scene=strcat(scene,ciudad);
 
 figure()
 plot(tdata,totDeaths,'-+',t,x(5,:),t,x1(5,:),t,x2(5,:))
+display(tdata)
+display(totDeaths)
 grid on
 title(strcat("Total de Muertes Reportadas. Escenario: ",scenetitle))
 legend("datos","modelo",strcat("modelo R0",mat2str(dr1),"%"),strcat("modelo R0+",mat2str(dr2),"%"))
