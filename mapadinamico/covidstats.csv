@@ -1,0 +1,536 @@
+Id provincia INDEC;Id departamento INDEC;ID departamento CovidStats;Provincia;Departamento
+2;1;87;CABA;COMUNA 01
+2;2;95;CABA;COMUNA 02
+2;3;49;CABA;COMUNA 03
+2;4;73;CABA;COMUNA 04
+2;5;135;CABA;COMUNA 05
+2;6;639;CABA;COMUNA 06
+2;7;157;CABA;COMUNA 07
+2;8;455;CABA;COMUNA 08
+2;9;97;CABA;COMUNA 09
+2;10;177;CABA;COMUNA 10
+2;11;37;CABA;COMUNA 11
+2;12;29;CABA;COMUNA 12
+2;13;137;CABA;COMUNA 13
+2;14;99;CABA;COMUNA 14
+2;15;105;CABA;COMUNA 15
+6;7;54244;Buenos Aires;Adolfo Alsina
+6;14;37456;Buenos Aires;Adolfo Gonzales Chaves
+6;21;7487;Buenos Aires;Alberti
+6;28;85;Buenos Aires;Almirante Brown
+6;35;75;Buenos Aires;Avellaneda
+6;42;5037;Buenos Aires;Ayacucho
+6;49;5263;Buenos Aires;Azul
+6;56;345;Buenos Aires;Bahía Blanca
+6;63;1211;Buenos Aires;Balcarce
+6;70;6921;Buenos Aires;Baradero
+6;77;9273;Buenos Aires;Arrecifes
+6;84;17239;Buenos Aires;Benito Juárez
+6;91;103;Buenos Aires;Berazategui
+6;98;5885;Buenos Aires;Berisso
+6;105;6803;Buenos Aires;Bolívar
+6;112;5097;Buenos Aires;Bragado
+6;119;927;Buenos Aires;Brandsen
+6;126;321;Buenos Aires;Campana
+6;134;199;Buenos Aires;Cañuelas
+6;140;7457;Buenos Aires;Capitán Sarmiento
+6;147;13703;Buenos Aires;Carlos Casares
+6;154;47664;Buenos Aires;Carlos Tejedor
+6;161;5029;Buenos Aires;Carmen de Areco
+6;168;625;Buenos Aires;Castelli
+6;175;6689;Buenos Aires;Colón
+6;182;12945;Buenos Aires;Coronel de Marina L. Rosales
+6;189;8691;Buenos Aires;Coronel Dorrego
+6;196;5755;Buenos Aires;Coronel Pringles
+6;203;41486;Buenos Aires;Coronel Suárez
+6;210;215;Buenos Aires;Chacabuco
+6;217;13443;Buenos Aires;Chascomús
+6;224;363;Buenos Aires;Chivilcoy
+6;231;42688;Buenos Aires;Daireaux
+6;238;5327;Buenos Aires;Dolores
+6;245;7947;Buenos Aires;Ensenada
+6;252;55;Buenos Aires;Escobar
+6;260;217;Buenos Aires;Esteban Echeverría
+6;266;9825;Buenos Aires;Exaltación de la Cruz
+6;270;331;Buenos Aires;Ezeiza
+6;274;15;Buenos Aires;Florencio Varela
+6;277;16107;Buenos Aires;Florentino Ameghino
+6;280;5497;Buenos Aires;General Alvarado
+6;287;99222;Buenos Aires;General Alvear
+6;294;49150;Buenos Aires;General Arenales
+6;301;11755;Buenos Aires;General Belgrano
+6;308;53026;Buenos Aires;General Guido
+6;315;11087;Buenos Aires;General Juan Madariaga
+6;322;14947;Buenos Aires;General La Madrid
+6;329;9465;Buenos Aires;General Las Heras
+6;336;98498;Buenos Aires;General Lavalle
+6;343;1029;Buenos Aires;General Paz
+6;351;42412;Buenos Aires;General Pinto
+6;357;67;Buenos Aires;General Pueyrredón
+6;364;681;Buenos Aires;General Rodríguez
+6;371;191;Buenos Aires;General San Martín
+6;385;17737;Buenos Aires;General Viamonte
+6;392;5079;Buenos Aires;General Villegas
+6;399;5041;Buenos Aires;Guaminí
+6;406;10655;Buenos Aires;Hipólito Yrigoyen
+6;408;5523;Buenos Aires;Hurlingham
+6;410;69;Buenos Aires;Ituzaingó
+6;412;501;Buenos Aires;José C. Paz
+6;413;1311;Buenos Aires;Junín
+6;420;5719;Buenos Aires;La Costa
+6;427;169;Buenos Aires;La Matanza
+6;434;237;Buenos Aires;Lanús
+6;441;31;Buenos Aires;La Plata
+6;448;70008;Buenos Aires;Laprida
+6;455;67090;Buenos Aires;Las Flores
+6;462;7013;Buenos Aires;Leandro N. Alem
+6;466;17952548;Buenos Aires;Lezama
+6;469;16135;Buenos Aires;Lincoln
+6;476;9173;Buenos Aires;Lobería
+6;483;4961;Buenos Aires;Lobos
+6;490;89;Buenos Aires;Lomas de Zamora
+6;497;435;Buenos Aires;Luján
+6;505;13141;Buenos Aires;Magdalena
+6;511;6217;Buenos Aires;Maipú
+6;515;127;Buenos Aires;Malvinas Argentinas
+6;518;5715;Buenos Aires;Mar Chiquita
+6;525;8131;Buenos Aires;Marcos Paz
+6;532;533;Buenos Aires;Mercedes
+6;539;207;Buenos Aires;Merlo
+6;547;465;Buenos Aires;Monte
+6;553;11689;Buenos Aires;Monte Hermoso
+6;560;933;Buenos Aires;Moreno
+6;568;547;Buenos Aires;Morón
+6;574;39558;Buenos Aires;Navarro
+6;581;5471;Buenos Aires;Necochea
+6;588;5077;Buenos Aires;9 de Julio
+6;595;119;Buenos Aires;Olavarría
+6;602;38760;Buenos Aires;Patagones
+6;609;10795;Buenos Aires;Pehuajó
+6;616;75164;Buenos Aires;Pellegrini
+6;623;27;Buenos Aires;Pergamino
+6;630;6073;Buenos Aires;Pila
+6;638;249;Buenos Aires;Pilar
+6;644;14853;Buenos Aires;Pinamar 
+6;648;1125;Buenos Aires;Presidente Perón
+6;651;7081;Buenos Aires;Puán
+6;655;327;Buenos Aires;Punta Indio
+6;658;39;Buenos Aires;Quilmes
+6;665;9769;Buenos Aires;Ramallo
+6;672;173;Buenos Aires;Rauch
+6;679;10227;Buenos Aires;Rivadavia
+6;686;5549;Buenos Aires;Rojas
+6;693;7121;Buenos Aires;Roque Pérez
+6;700;17491;Buenos Aires;Saavedra
+6;707;40074;Buenos Aires;Saladillo
+6;714;495;Buenos Aires;Salto
+6;721;64430;Buenos Aires;Salliqueló
+6;728;969;Buenos Aires;San Andrés de Giles
+6;735;4917;Buenos Aires;San Antonio de Areco
+6;742;6085;Buenos Aires;San Cayetano
+6;749;71;Buenos Aires;San Fernando
+6;756;47;Buenos Aires;San Isidro
+6;760;399;Buenos Aires;San Miguel
+6;763;1517;Buenos Aires;San Nicolás
+6;770;4897;Buenos Aires;San Pedro
+6;778;5571;Buenos Aires;San Vicente
+6;784;17945;Buenos Aires;Suipacha
+6;791;283;Buenos Aires;Tandil
+6;798;62430;Buenos Aires;Tapalqué
+6;805;91;Buenos Aires;Tigre
+6;812;16605036;Buenos Aires;Tordillo
+6;819;37352;Buenos Aires;Tornquist
+6;826;11623;Buenos Aires;Trenque Lauquen
+6;833;16459;Buenos Aires;Tres Arroyos
+6;840;111;Buenos Aires;Tres de Febrero
+6;847;52088;Buenos Aires;Tres Lomas
+6;854;13613;Buenos Aires;25 de Mayo
+6;861;77;Buenos Aires;Vicente López
+6;868;653;Buenos Aires;Villa Gesell
+6;875;37606;Buenos Aires;Villarino
+6;882;163;Buenos Aires;Zárate 
+10;7;242670;Catamarca;Ambato
+10;14;9129314;Catamarca;Ancasti
+10;21;8311;Catamarca;Andalgalá
+10;28;246080;Catamarca;Antofagasta de la Sierra
+10;35;41758;Catamarca;Belén
+10;42;48828;Catamarca;Capayán
+10;49;473;Catamarca;Capital
+10;56;109774;Catamarca;El Alto
+10;63;41782;Catamarca;Fray Mamerto Esquiú
+10;70;11655;Catamarca;La Paz
+10;77;55194;Catamarca;Paclín
+10;84;105712;Catamarca;Pomán
+10;91;14413;Catamarca;Santa María
+10;98;41866;Catamarca;Santa Rosa
+10;105;11649;Catamarca;Tinogasta
+10;112;11691;Catamarca;Valle Viejo
+14;7;821;Córdoba;Calamuchita
+14;14;209;Córdoba;Capital
+14;21;233;Córdoba;Colón
+14;28;509;Córdoba;Cruz del Eje
+14;35;9427;Córdoba;General Roca
+14;42;1285;Córdoba;General San Martín
+14;49;875;Córdoba;Ischilín
+14;56;5985;Córdoba;Juárez Celman
+14;63;5141;Córdoba;Marcos Juárez
+14;70;48364;Córdoba;Minas
+14;77;83500;Córdoba;Pocho
+14;84;519;Córdoba;Presidente Roque Sáenz Peña
+14;91;525;Córdoba;Punilla
+14;98;35;Córdoba;Río Cuarto
+14;105;9459;Córdoba;Río Primero
+14;112;12925;Córdoba;Río Seco
+14;119;365;Córdoba;Río Segundo
+14;126;6625;Córdoba;San Alberto
+14;133;5317;Córdoba;San Javier
+14;140;101;Córdoba;San Justo
+14;147;569;Córdoba;Santa María
+14;154;214772;Córdoba;Sobremonte
+14;161;61;Córdoba;Tercero Arriba
+14;168;1297;Córdoba;Totoral
+14;175;13175;Córdoba;Tulumba
+14;182;225;Córdoba;Unión
+18;7;9041;Corrientes;Bella Vista
+18;14;81546;Corrientes;Berón de Astrada
+18;21;79;Corrientes;Capital
+18;28;54816;Corrientes;Concepción
+18;35;38090;Corrientes;Curuzú Cuatiá
+18;42;5827;Corrientes;Empedrado
+18;49;15829;Corrientes;Esquina
+18;56;38362;Corrientes;General Alvear
+18;63;1059;Corrientes;General Paz
+18;70;1359;Corrientes;Goya
+18;77;68476;Corrientes;Itatí
+18;84;555;Corrientes;Ituzaingó
+18;91;7857;Corrientes;Lavalle
+18;98;46938;Corrientes;Mburucuyá
+18;105;5797;Corrientes;Mercedes
+18;112;8713;Corrientes;Monte Caseros
+18;119;8269;Corrientes;Paso de los Libres
+18;126;1047;Corrientes;Saladas
+18;133;13245;Corrientes;San Cosme
+18;140;12987;Corrientes;San Luis del Palmar
+18;147;130246;Corrientes;San Martín
+18;154;109892;Corrientes;San Miguel
+18;161;8247;Corrientes;San Roque
+18;168;1053;Corrientes;Santo Tomé
+18;175;43172;Corrientes;Sauce
+22;7;5167;Chaco;Almirante Brown
+22;14;5697;Chaco;Bermejo
+22;21;811;Chaco;Comandante Fernández
+22;28;6183;Chaco;Chacabuco
+22;36;8257;Chaco;12 de Octubre
+22;39;5767;Chaco;2 de Abril
+22;43;16855;Chaco;Fray Justo Santa María de Oro
+22;49;9741;Chaco;General Belgrano
+22;56;799;Chaco;General Donovan
+22;63;6419;Chaco;General Güemes
+22;70;9335;Chaco;Independencia
+22;77;8439;Chaco;Libertad
+22;84;1185;Chaco;Libertador General San Martín
+22;91;5173;Chaco;Maipú
+22;98;5065;Chaco;Mayor Luis J. Fontana
+22;105;12241;Chaco;9 de Julio
+22;112;92630;Chaco;O'Higgins
+22;119;12043;Chaco;Presidencia de la Plaza
+22;126;5345;Chaco;1º de Mayo
+22;133;9501;Chaco;Quitilipi
+22;140;195;Chaco;San Fernando
+22;147;16349;Chaco;San Lorenzo
+22;154;7843;Chaco;Sargento Cabral
+22;161;86454;Chaco;Tapenagá
+22;168;49464;Chaco;25 de Mayo
+26;7;6151;Chubut;Biedma
+26;14;6397;Chubut;Cushamen
+26;21;5001;Chubut;Escalante
+26;28;17270410;Chubut;Florentino Ameghino
+26;35;9161;Chubut;Futaleufú
+26;42;80446;Chubut;Gaiman
+26;49;17952536;Chubut;Gastre
+26;56;17952537;Chubut;Languiñeo
+26;63;17952538;Chubut;Mártires
+26;70;16611864;Chubut;Paso de Indios
+26;77;487;Chubut;Rawson
+26;84;38896;Chubut;Río Senguer
+26;91;9849;Chubut;Sarmiento 
+26;98;6223;Chubut;Tehuelches
+26;105;81930;Chubut;Telsen
+30;8;7159;Entre Ríos;Colón
+30;15;145;Entre Ríos;Concordia
+30;21;5831;Entre Ríos;Diamante
+30;28;6403;Entre Ríos;Federación
+30;35;134272;Entre Ríos;Federal
+30;42;157150;Entre Ríos;Feliciano
+30;49;375;Entre Ríos;Gualeguay
+30;56;4863;Entre Ríos;Gualeguaychú
+30;63;13607;Entre Ríos;Islas del Ibicuy
+30;70;8609;Entre Ríos;La Paz
+30;77;7705;Entre Ríos;Nogoyá
+30;84;333;Entre Ríos;Paraná
+30;88;106352;Entre Ríos;San Salvador
+30;91;5283;Entre Ríos;Tala
+30;98;573;Entre Ríos;Uruguay
+30;105;8791;Entre Ríos;Victoria
+30;113;8051;Entre Ríos;Villaguay
+34;7;64082;Formosa;Bermejo
+34;14;123;Formosa;Formosa
+34;21;15257;Formosa;Laishi
+34;28;93638;Formosa;Matacos
+34;35;47356;Formosa;Patiño
+34;42;47202;Formosa;Pilagás
+34;49;57;Formosa;Pilcomayo
+34;56;15683;Formosa;Pirané
+34;63;234982;Formosa;Ramón Lista
+38;7;15465;Jujuy;Cochinoca
+38;14;5857;Jujuy;El Carmen
+38;21;759;Jujuy;Dr. Manuel Belgrano
+38;28;38384;Jujuy;Humahuaca
+38;35;12213;Jujuy;Ledesma
+38;42;5039;Jujuy;Palpalá 
+38;49;3224446;Jujuy;Rinconada
+38;56;11171;Jujuy;San Antonio
+38;63;15637;Jujuy;San Pedro
+38;70;45564;Jujuy;Santa Bárbara
+38;77;69480;Jujuy;Santa Catalina
+38;84;58422;Jujuy;Susques
+38;94;8935;Jujuy;Tilcara
+38;98;56248;Jujuy;Tumbaya
+38;105;124142;Jujuy;Valle Grande
+38;112;15449;Jujuy;Yavi
+38;126;16951;Jujuy;Campana
+38;182;9122950;Jujuy;Coronel de Marina L. Rosales
+38;270;13459784;Jujuy;Ezeiza
+38;308;261440;Jujuy;General Guido
+38;408;15305960;Jujuy;Hurlingham
+38;609;42423883;Jujuy;Pehuajó
+42;7;48978;La Pampa;Atreucó
+42;14;119630;La Pampa;Caleu Caleu
+42;21;451;La Pampa;Capital
+42;28;8329;La Pampa;Catriló
+42;35;72248;La Pampa;Conhelo
+42;42;1862548;La Pampa;Curacó
+42;49;7769;La Pampa;Chalileo
+42;56;1217;La Pampa;Chapaleufú
+42;63;17952539;La Pampa;Chical Co
+42;70;119460;La Pampa;Guatraché
+42;77;40024;La Pampa;Hucal
+42;84;17952540;La Pampa;Lihuel Calel
+42;91;17952541;La Pampa;Limay Mahuida
+42;98;88262;La Pampa;Loventué
+42;105;7737;La Pampa;Maracó
+42;112;54320;La Pampa;Puelén
+42;119;517;La Pampa;Quemú Quemú
+42;126;38482;La Pampa;Rancul
+42;133;7719;La Pampa;Realicó
+42;140;17409;La Pampa;Toay
+42;147;165226;La Pampa;Trenel
+42;154;49298;La Pampa;Utracán
+46;7;50590;La Rioja;Arauco
+46;14;151;La Rioja;Capital
+46;21;70350;La Rioja;Castro Barros
+46;28;55680;La Rioja;Coronel Felipe Varela
+46;35;39726;La Rioja;Chamical 
+46;42;9303;La Rioja;Chilecito 
+46;49;43764;La Rioja;Famatina 
+46;56;53922;La Rioja;General Angel V. Peñaloza
+46;63;61370;La Rioja;General Belgrano
+46;70;44538;La Rioja;General Juan F. Quiroga
+46;77;114212;La Rioja;General Lamadrid
+46;84;101196;La Rioja;General Ocampo
+46;91;126278;La Rioja;General San Martín
+46;98;155006;La Rioja;Vinchina
+46;105;101248;La Rioja;Independencia
+46;112;44398;La Rioja;Rosario Vera Peñaloza
+46;119;44414;La Rioja;San Blas de los Sauces
+46;126;9945;La Rioja;Sanagasta
+50;7;275;Mendoza;Capital
+50;14;9281;Mendoza;General Alvear
+50;21;41;Mendoza;Godoy Cruz
+50;28;307;Mendoza;Guaymallén
+50;35;37676;Mendoza;Junín
+50;42;40464;Mendoza;La Paz
+50;49;1037;Mendoza;Las Heras
+50;56;5793;Mendoza;Lavalle
+50;63;297;Mendoza;Luján de Cuyo
+50;70;5237;Mendoza;Maipú
+50;77;6281;Mendoza;Malargüe
+50;84;38506;Mendoza;Rivadavia
+50;91;5071;Mendoza;San Carlos
+50;98;1567;Mendoza;San Martín
+50;105;141;Mendoza;San Rafael
+50;112;73256;Mendoza;Santa Rosa
+50;119;11465;Mendoza;Tunuyán
+50;126;8357;Mendoza;Tupungato
+50;371;43961258;Mendoza;Temp
+54;7;69484;Misiones;Apóstoles
+54;14;103566;Misiones;Cainguás
+54;21;6109;Misiones;Candelaria
+54;28;4851;Misiones;Capital
+54;35;2868944;Misiones;Concepción
+54;42;7587;Misiones;Eldorado
+54;49;64886;Misiones;General Manuel Belgrano
+54;56;73362;Misiones;Guaraní
+54;63;6539;Misiones;Iguazú
+54;70;6977;Misiones;Leandro N. Alem
+54;77;45800;Misiones;Libertador Grl. San Martín
+54;84;73614;Misiones;Montecarlo
+54;91;6731;Misiones;Oberá
+54;98;15507;Misiones;San Ignacio
+54;105;66216;Misiones;San Javier
+54;112;66840;Misiones;San Pedro
+54;119;64996;Misiones;25 de Mayo
+58;7;6011;Neuquén;Aluminé
+58;14;48670;Neuquén;Añelo
+58;21;80100;Neuquén;Catán Lil
+58;28;4913;Neuquén;Collón Curá
+58;35;417;Neuquén;Confluencia
+58;42;8721;Neuquén;Chos Malal
+58;49;38518;Neuquén;Huiliches
+58;56;1343;Neuquén;Lácar
+58;63;39778;Neuquén;Loncopué
+58;70;14367;Neuquén;Los Lagos
+58;77;12437;Neuquén;Minas
+58;84;37516;Neuquén;Ñorquín
+58;91;10737;Neuquén;Pehuenches
+58;98;14481;Neuquén;Picún Leufú
+58;105;7881;Neuquén;Picunches
+58;112;7045;Neuquén;Zapala 
+62;7;193;Río Negro;Adolfo Alsina
+62;14;11141;Río Negro;Avellaneda
+62;21;641;Río Negro;Bariloche
+62;28;40622;Río Negro;Conesa
+62;35;74232;Río Negro;El Cuy
+62;42;277;Río Negro;General Roca
+62;49;2201792;Río Negro;9 de Julio
+62;56;17952542;Río Negro;Ñorquincó
+62;63;17869;Río Negro;Pichi Mahuida
+62;70;14339;Río Negro;Pilcaniyeu
+62;77;9235;Río Negro;San Antonio
+62;84;73696;Río Negro;Valcheta
+62;91;61994;Río Negro;25 de Mayo
+66;7;17803;Salta;Anta
+66;14;118064;Salta;Cachi
+66;21;853;Salta;Cafayate
+66;28;521;Salta;Capital
+66;35;5151;Salta;Cerrillos 
+66;42;45158;Salta;Chicoana
+66;49;8707;Salta;General Güemes
+66;56;1223;Salta;Grl. José de San Martín
+66;63;17952543;Salta;Guachipas
+66;70;58518;Salta;Iruya
+66;77;38550;Salta;La Caldera
+66;84;17952544;Salta;La Candelaria
+66;91;17952545;Salta;La Poma
+66;98;145388;Salta;La Viña
+66;105;130344;Salta;Los Andes
+66;112;5399;Salta;Metán
+66;119;16335;Salta;Molinos
+66;126;5483;Salta;Orán
+66;133;13857;Salta;Rivadavia
+66;140;10849;Salta;Rosario de la Frontera
+66;147;6547;Salta;Rosario de Lerma
+66;154;117272;Salta;San Carlos
+66;161;60072;Salta;Santa Victoria
+70;7;36200;San Juan;Albardón
+70;14;47158;San Juan;Angaco
+70;21;107320;San Juan;Calingasta
+70;28;7103;San Juan;Capital
+70;35;5605;San Juan;Caucete
+70;42;15501;San Juan;Chimbas
+70;49;268530;San Juan;Iglesia
+70;56;36968;San Juan;Jáchal
+70;63;87310;San Juan;9 de Julio
+70;70;663;San Juan;Pocito
+70;77;817;San Juan;Rawson
+70;84;279;San Juan;Rivadavia
+70;91;47196;San Juan;San Martín
+70;98;47212;San Juan;Santa Lucía
+70;105;7617;San Juan;Sarmiento
+70;112;12285;San Juan;Ullúm
+70;119;62310;San Juan;Valle Fértil
+70;126;48380;San Juan;25 de Mayo
+70;133;11543;San Juan;Zonda
+74;7;42014;San Luis;Ayacucho
+74;14;36218;San Luis;Belgrano
+74;21;36148;San Luis;Coronel Pringles
+74;28;11437;San Luis;Chacabuco
+74;35;1127;San Luis;General Pedernera
+74;42;7117;San Luis;Gobernador Dupuy
+74;49;11891;San Luis;Junín
+74;56;227;San Luis;La Capital
+74;63;45032;San Luis;Libertador General San Martín
+78;7;287;Santa Cruz;Corpen Aike
+78;14;1557;Santa Cruz;Deseado
+78;21;7927;Santa Cruz;Güer Aike
+78;28;1069;Santa Cruz;Lago Argentino
+78;35;5599;Santa Cruz;Lago Buenos Aires
+78;42;5981;Santa Cruz;Magallanes
+78;49;14097;Santa Cruz;Río Chico
+82;7;5691;Santa Fe;Belgrano
+82;14;8327;Santa Fe;Caseros
+82;21;5093;Santa Fe;Castellanos
+82;28;5655;Santa Fe;Constitución
+82;35;6341;Santa Fe;Garay
+82;42;583;Santa Fe;General López
+82;49;5225;Santa Fe;General Obligado
+82;56;8319;Santa Fe;Iriondo
+82;63;81;Santa Fe;La Capital
+82;70;467;Santa Fe;Las Colonias
+82;77;13149;Santa Fe;9 de Julio
+82;84;129;Santa Fe;Rosario
+82;91;8169;Santa Fe;San Cristóbal
+82;98;5121;Santa Fe;San Javier
+82;105;6119;Santa Fe;San Jerónimo
+82;112;9607;Santa Fe;San Justo
+82;119;6055;Santa Fe;San Lorenzo
+82;126;5679;Santa Fe;San Martín
+82;133;9635;Santa Fe;Vera
+86;7;89302;Santiago del Estero;Aguirre
+86;14;14519;Santiago del Estero;Alberdi
+86;21;181270;Santiago del Estero;Atamisqui
+86;28;73402;Santiago del Estero;Avellaneda
+86;35;11897;Santiago del Estero;Banda
+86;42;8835;Santiago del Estero;Belgrano
+86;49;725;Santiago del Estero;Capital
+86;56;72868;Santiago del Estero;Copo
+86;63;43932;Santiago del Estero;Choya
+86;70;103284;Santiago del Estero;Figueroa
+86;77;14459;Santiago del Estero;General Taboada
+86;84;162808;Santiago del Estero;Guasayán
+86;91;48168;Santiago del Estero;Jiménez
+86;98;55444;Santiago del Estero;Juan F. Ibarra
+86;105;140716;Santiago del Estero;Loreto
+86;112;12316934;Santiago del Estero;Mitre
+86;119;14515;Santiago del Estero;Moreno
+86;126;5313;Santiago del Estero;Ojo de Agua
+86;133;59964;Santiago del Estero;Pellegrini
+86;140;11909;Santiago del Estero;Quebrachos
+86;147;9175;Santiago del Estero;Río Hondo
+86;154;1379;Santiago del Estero;Rivadavia
+86;161;8805;Santiago del Estero;Robles
+86;168;110650;Santiago del Estero;Salavina
+86;175;110486;Santiago del Estero;San Martín
+86;182;129680;Santiago del Estero;Sarmiento
+86;189;132906;Santiago del Estero;Silípica
+90;7;6487;Tucumán;Burruyacú
+90;14;1025;Tucumán;Cruz Alta
+90;21;1099;Tucumán;Chicligasta
+90;28;8161;Tucumán;Famaillá
+90;35;65486;Tucumán;Graneros
+90;42;15255;Tucumán;Juan Bautista Alberdi
+90;49;10661;Tucumán;La Cocha
+90;56;51894;Tucumán;Leales
+90;63;5299;Tucumán;Lules
+90;70;5057;Tucumán;Monteros
+90;77;5917;Tucumán;Río Chico
+90;84;387;Tucumán;Capital
+90;91;15443;Tucumán;Simoca
+90;98;14921;Tucumán;Tafí del Valle
+90;105;385;Tucumán;Tafí Viejo
+90;112;54584;Tucumán;Trancas
+90;119;381;Tucumán;Yerba Buena
+94;7;219;Tierra del Fuego;Río Grande
+94;14;53;Tierra del Fuego;Ushuaia
+94;21;17952547;Tierra del Fuego;Islas del Atlántico Sur
+94;28;17952546;Tierra del Fuego;Antártida Argentina
