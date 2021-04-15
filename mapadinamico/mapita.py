@@ -8,7 +8,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 
-INITIAL_DATE = '21-01-01'
+INITIAL_DATE = '21-02-01'
 CHOOSED_COLUMN = "casos_fa_14acum_percapita"
 
 app = dash.Dash(__name__)
@@ -30,6 +30,7 @@ fig = px.choropleth(df,
                     locations='LOCATION',
                     color=CHOOSED_COLUMN,
                     fitbounds="locations",
+                    range_color = [0, max(df[CHOOSED_COLUMN])],
                     height=700,
                     )
 print('Graph generated')
